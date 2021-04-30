@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "TendoGrowthSystem",
+    "name": "TendoGrowthSystem",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Mical"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
